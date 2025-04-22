@@ -226,3 +226,6 @@ int main (int argc, char *argv[])                                               
     return 0;									// Tout fini
 }										// ## Fin main
 // NEW COMMENT §§
+// NEW COMMENT §§
+// NEW COMMENT §§
+// NEW COMMENT §§// NEW COMMENT §§
